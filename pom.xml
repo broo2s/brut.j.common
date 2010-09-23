@@ -58,6 +58,10 @@
     </dependency>
   </dependencies>
 
+  <scm>
+    <developerConnection>scm:git:ssh://git@github.com/brutall/brut.j.common.git</developerConnection>
+  </scm>
+
   <distributionManagement>
     <repository>
       <id>android-apktool.googlecode.com</id>
